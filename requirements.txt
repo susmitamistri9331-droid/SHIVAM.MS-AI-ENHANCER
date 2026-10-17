@@ -1,0 +1,7 @@
+gradio>=5.20,<6.0
+opencv-python-headless>=4.9.0
+imageio-ffmpeg>=0.5.1
+numpy>=1.26.0
+spandrel>=0.4.1
+torch>=2.2.0
+gradio_client>=1.7.0
